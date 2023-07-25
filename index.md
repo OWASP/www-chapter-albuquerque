@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Albuquerque
-tags: 
+tags: meetings
 level: 0
 region: United States
 
