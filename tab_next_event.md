@@ -3,7 +3,7 @@ title: Next Event
 layout:  null
 tab: true
 order: 1
-tags: next-event
+tags: nextevent
 ---
 
 ## Next Event: TBD
