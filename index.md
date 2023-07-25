@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Albuquerque
-tags: nextevent
+tags: 
 level: 0
 region: United States
 
@@ -12,3 +12,7 @@ region: United States
 ## Welcome
 We are a new chapter planning to meet in the vicinity of the University of New Mexico. Everyone is welcome to join us at our chapter meetings and recommend topics. Our first meeting date and location are still TBD.
 
+## Next Event: TBD
+August 2023, Date, Time and Location TBD
+
+### Agenda: TBD
