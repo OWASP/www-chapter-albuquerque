@@ -10,7 +10,7 @@ region: United States
 <!-- editing instructions at https://owasp.org/migration/ -->
 
 ## Welcome
-We are a new chapter planning to meet in the vicinity of the University of New Mexico. Everyone is welcome to join us at our chapter meetings and recommend topics. 
+OWASP Albuquerque is for anyone here in town to discuss software security topics. We have a couple discussion ideas in mind, but we are also eager to hear what you would like to talk about too!
 
 ## Next Event: First Meeting!
 Wednesday, August 30, 2023
@@ -18,6 +18,8 @@ Wednesday, August 30, 2023
 3 pm - 6 pm
 
 UNM Centennial Library, DEN2
+
+**A valid government-issued or student picture ID is required to enter the Centennial Science and Engineering Library.**
 
 ### Agenda: 
 - Get to know each other
