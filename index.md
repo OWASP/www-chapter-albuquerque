@@ -24,4 +24,4 @@ Wednesday, August 30, 2023
 ### Agenda: 
 - Get to know each other
 - Pitch ideas for future meetings
-- Informal presentation and discussion about code injection attacks. If you have thoughts or experience in this area, please come and share!
+- Informal presentation and discussion about code injection attacks at 4 pm. If you have thoughts or experience in this area, please come and share!
