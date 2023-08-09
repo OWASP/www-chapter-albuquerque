@@ -1,5 +1,6 @@
 ---
 title: centlibrary
+displaytext: Meeting Location
 layout:  null
 tab: true
 order: 1
