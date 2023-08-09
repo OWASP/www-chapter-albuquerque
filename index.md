@@ -19,8 +19,6 @@ Wednesday, August 30, 2023
 
 <a href="/www-chapter-albuquerque/#div-centlibrary" onclick="location.hash='div-centlibrary'; location.reload();">UNM Centennial Library</a>, DEN2
 
-**A valid government-issued or student picture ID is required to enter the Centennial Science and Engineering Library.**
-
 ### Agenda: 
 - Get to know each other
 - Pitch ideas for future meetings
