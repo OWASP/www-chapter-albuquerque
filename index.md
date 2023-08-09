@@ -17,7 +17,7 @@ Wednesday, August 30, 2023
 
 3 pm - 6 pm
 
-[UNM Centennial Library](https://owasp.org/www-chapter-albuquerque/#div-centlibrary), DEN2
+<a href="/www-chapter-albuquerque/#div-centlibrary" onclick="location.hash='div-centlibrary'; location.reload();">UNM Centennial Library</a>, DEN2
 
 **A valid government-issued or student picture ID is required to enter the Centennial Science and Engineering Library.**
 
