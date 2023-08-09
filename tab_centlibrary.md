@@ -13,10 +13,10 @@ Centennial Library is located on the University of New Mexico campus, near the c
 
 Public parking is across the stree on University Blvd. Street parking is available south of Central Ave.
 
-<img src='/assets/images/IMG_1174.jpeg' alt='map' width='500'>
+<img src='/www-chapter-albuquerque/assets/images/IMG_1174.jpeg' alt='map' width='500'>
 
 The entrance is a small building that leads you underground. 
 
 _**A valid government-issued or student picture ID is required to enter the Centennial Science and Engineering Library.**_ Have your photo ID ready to show at the downstairs turnstile.
 
-<img src='/assets/images/IMG_1175.jpeg' alt='entrance' width='500'>
+<img src='/www-chapter-albuquerque/assets/images/IMG_1175.jpeg' alt='entrance' width='500'>
