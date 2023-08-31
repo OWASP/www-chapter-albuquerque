@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Albuquerque
-tags: location-tag
+tags: location-tag, past-tag
 level: 0
 region: United States
 
