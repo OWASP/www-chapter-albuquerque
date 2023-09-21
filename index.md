@@ -4,7 +4,8 @@ layout: col-sidebar
 title: OWASP Albuquerque
 tags: location-tag, past-tag
 level: 0
-region: United States
+region: North America
+country: USA
 
 ---
 <!-- editing instructions at https://owasp.org/migration/ -->
