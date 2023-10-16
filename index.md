@@ -21,7 +21,7 @@ OWASP Albuquerque is for anyone here in town to discuss software security topics
 
 Security research student Alex Adams will give a presentation about exploiting misconfigurations of the Google Authentication Toolkit in the wild. Learn about the Google Identity Toolkit API and common ways you might find it misconfigured. This talk will discuss some methods to spot issues with websites in general, common tools used by hackers for web penetration, and then go into a specific example of gaining unauthorized access to a website.
 
-Our space is limited to 16 people, so please RSVP to fpezztidyer@unm.edu.
+Our space is limited to 16 people, so please RSVP to fpezzutidyer@unm.edu.
 
 ### Agenda: 
 - Meet and greet
