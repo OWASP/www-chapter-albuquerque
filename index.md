@@ -13,12 +13,17 @@ country: USA
 ## Welcome
 OWASP Albuquerque is for anyone here in town to discuss software security topics. We have a couple discussion ideas in mind, but we are also eager to hear what you would like to talk about too!
 
-## Next Event: September 2023 meeting
-Date and Time TBD, probably starting around 5:30 pm
+## Next Event: Breaking into websites using misconfigurations
 
-Location TBD
+**Thursday, October 26, 2023, at 4 pm**
+
+<a href="/www-chapter-albuquerque/#div-centlibrary" onclick="location.hash='div-centlibrary'; location.reload();">UNM Centennial Library</a>, DEN2
+
+Security research student Alex Adams will give a presentation about exploiting misconfigurations of the Google Authentication Toolkit in the wild. Learn about the Google Identity Toolkit API and common ways you might find it misconfigured. This talk will discuss some methods to spot issues with websites in general, common tools used by hackers for web penetration, and then go into a specific example of gaining unauthorized access to a website.
+
+Our space is limited to 16 people, so please RSVP to fpezztidyer@unm.edu.
 
 ### Agenda: 
 - Meet and greet
-- Presentation TBD
-- Pitch ideas for future meetings
+- Featured presentation "Breaking into websites using misconfigurations"
+- Pitch ideas and recruit volunteers for future presentations
