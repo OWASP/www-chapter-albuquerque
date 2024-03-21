@@ -7,6 +7,24 @@ order: 1
 tags: past-tag
 ---
 
+### Monday, November 27, 2023, at 4 pm
+
+Basics of SQL injection
+
+UNM Centennial Library, DEN2
+
+UNM student Franklin Pezzuti Dyer will discuss the basics of how databases might be used for web applications, how a web app can manipulate a database using SQL, and how this can leave an app open for attack if SQL commands are handled unsafely. The meeting will consist of a short introductory talk, followed by a lab session consisting of SQL injection exercises on deliberately vulnerable websites hosted by Portswigger.
+
+If you would like to participate in the lab session, please come prepared with a Portswigger account, and a proxy of your choice installed. You will need this to capture, examine and modify HTTP packets. You could use Burp Suite (software by Portswigger, recommended) or an open-source alternative like mitmproxy.
+
+Our space is limited to 16 people, so please RSVP to fpezzutidyer@unm.edu.
+
+Agenda: 
+
+- Say Howdy
+- Featured presentation "Basics of SQL injection"
+- Pitch ideas and recruit volunteers for future presentations
+
 ### Thursday, October 26, 2023, at 4 pm
 
 Breaking into websites using misconfigurations
