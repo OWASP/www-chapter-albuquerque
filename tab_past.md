@@ -7,6 +7,24 @@ order: 1
 tags: past-tag
 ---
 
+### Wednesday, March 27, 2023, at 4 pm
+
+Code Eyeballing
+
+UNM Centennial Library, DEN2
+
+Rose will guide us through a code review of a simple web application. Participants will be invited to eyeball code in the context of their favorite risk from OWASP Top 10; list issues; discuss remediation strategies; and prioritize remediations. 
+
+All activities can be completed by looking at code. But you can also test on your machine with Docker: deploy https://github.com/pzzd/docker-lamp and send a request to rose.dyer@owasp.org for access to the web application repo.
+
+Our space is limited to 16 people, so please RSVP to fpezzutidyer@unm.edu.
+
+Agenda: 
+
+- Greetings and salutations
+- Featured presentation "Code Eyeballing"
+- Pitch ideas and recruit volunteers for future presentations
+
 ### Monday, November 27, 2023, at 4 pm
 
 Basics of SQL injection
