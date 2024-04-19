@@ -24,6 +24,7 @@ Franklin and Althea will discuss the basics of Cross-Site Request Forgery (CSRF)
 Please RSVP to franklin.dyer@owasp.org. If you want to participate in the lab exercise, please bring a personal computer and make an account on the Portswigger website before the event. It is also recommended (but not required) to install either Burp Suite Community Edition, or another web proxy of your choice.
 
 ### Agenda: 
-- Greetings and salutations
-- Featured presentation "Code Eyeballing"
+- Meet and greet
+- Featured presentation "Cross-Site Request Forgery Basics"
+- Elect 2 co-leaders for next year
 - Pitch ideas and recruit volunteers for future presentations
