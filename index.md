@@ -17,9 +17,10 @@ OWASP Albuquerque is for anyone here in town to discuss software security topics
 
 **Tuesday, July 16, 2024, at 5:30 pm**
 
-<a href='https://maps.app.goo.gl/4xiarPVjq5S5jbFg6' target='_blank'>Bosque Brewing</a>
+<a href='https://maps.app.goo.gl/4xiarPVjq5S5jbFg6' target='_blank'>Bosque Brewing</a>, 106 Girard Blvd SE, Unit B, Albuquerque, NM 87106
 
-It's time to plan activities for the next year! We need your ideas future chapter activities. Please come by to say hello and tell us what you think OWASP ABQ should work on this year. 
+
+It's time to plan activities for the next year! We need your ideas for future chapter activities. Please come by to say hello and tell us what you think OWASP ABQ should work on this year. 
 
 Interested in a leadership position? We will also elect 2 co-leaders for the next year. Find out more information in the Leadership section.
 
