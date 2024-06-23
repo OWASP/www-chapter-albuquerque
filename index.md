@@ -21,7 +21,7 @@ OWASP Albuquerque is for anyone here in town to discuss software security topics
 
 It's time to plan activities for the next year! We need your ideas future chapter activities. Please come by to say hello and tell us what you think OWASP ABQ should work on this year. 
 
-Interested in a leadership position? We will also elect 2 co-leaders for the next year. Find out more information in the <a href="https://owasp.org/www-chapter-albuquerque/">Leadership section</a>.
+Interested in a leadership position? We will also elect 2 co-leaders for the next year. Find out more information in the Leadership section.
 
 
 ### Agenda: 
