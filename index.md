@@ -28,3 +28,4 @@ Interested in a leadership position? We will also elect 2 co-leaders for the nex
 - 5:30 Meet and greet, beer and snacks
 - 6:15: Pick 2 co-leaders
 - Brainstorm for the upcoming year
+  - <a href="https://f2fevents.com/event/abq24/" target='_blank'>INTERFACE Albuquerque</a> on Thursday, September 19?
