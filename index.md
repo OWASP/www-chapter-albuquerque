@@ -29,6 +29,24 @@ Interested in a leadership position? We will also elect 2 co-leaders for the nex
 - 5:30 Meet and greet, beer and snacks
 - 6:15: Pick 2 co-leaders
 - Brainstorm for the upcoming year
-  - <a href="https://bsidesabq.org" target="_blank">BSides Cybersecurity conference</a>, July 19-20
-    - 2-for-1 tickets! Student ticket price! 
-  - <a href="https://f2fevents.com/event/abq24/" target='_blank'>INTERFACE Albuquerque</a> on Thursday, September 19?
+- Upcoming events:
+  - July 19-20: <a href="https://bsidesabq.org" target="_blank">BSides Cybersecurity conference</a>
+    - 2-for-1 tickets! Student ticket price!
+  - July 23: Using Fuzzing in Cybersecurity
+  - September 19: <a href="https://f2fevents.com/event/abq24/" target='_blank'>INTERFACE Albuquerque</a>
+
+---
+
+## Upcoming Event: Using Fuzzing in Cybersecurity
+
+**Tuesday, July 23, 2024, at 4:30 pm**
+
+<a href="/www-chapter-albuquerque/#div-centlibrary" onclick="location.hash='div-centlibrary'; location.reload();">UNM Centennial Library</a>, DEN2
+
+Fuzzing is a technique to test programs with generated data. Its main goal is to detect crashes and non-expected failures. Radamsa is a general-purpose, black-box-oriented mutating fuzzer. In this talk, José will show examples of fuzzing using radamsa from basic command line tools to network services. We will also discuss some applications in cybersecurity of fuzzing involving automation of test cases.
+
+### Agenda: 
+- 4:30 Say Howdy
+- 5:00: Using Fuzzing in Cybersecurity
+- Upcoming events:
+  - September 19: <a href="https://f2fevents.com/event/abq24/" target='_blank'>INTERFACE Albuquerque</a>
