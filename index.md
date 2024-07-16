@@ -33,6 +33,7 @@ Interested in a leadership position? We will also elect 2 co-leaders for the nex
   - July 19-20: <a href="https://bsidesabq.org" target="_blank">BSides Cybersecurity conference</a>
     - 2-for-1 tickets! Student ticket price!
   - July 23: Using Fuzzing in Cybersecurity
+  - Around August 1: <a href="https://www.meetup.com/albuquerque-software-social-club/" target="_blank">Albuquerque Software Social Club</a>
   - September 19: <a href="https://f2fevents.com/event/abq24/" target='_blank'>INTERFACE Albuquerque</a>
 
 ---
