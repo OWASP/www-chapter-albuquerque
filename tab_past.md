@@ -7,9 +7,33 @@ order: 1
 tags: past-tag
 ---
 
-### Tuesday, April 30, 2024, at 5:30 pm
+## Leadership Elections and Planning
 
-Cross-Site Request Forgery Basics
+Tuesday, July 16, 2024, at 5:30 pm
+
+<a href='https://maps.app.goo.gl/4xiarPVjq5S5jbFg6' target='new'>Bosque Brewing</a>, 106 Girard Blvd SE, Unit B, Albuquerque, NM 87106
+
+It's time to plan activities for the next year! We need your ideas for future chapter activities. Please come by to say hello and tell us what you think OWASP ABQ should work on this year. 
+
+Interested in a leadership position? We will also elect 2 co-leaders for the next year. Find out more information in the Leadership section.
+
+
+### Agenda: 
+- 5:30 Meet and greet, beer and snacks
+- 6:15: Pick 2 co-leaders
+- Brainstorm for the upcoming year
+- Upcoming events:
+  - July 19-20: <a href="https://bsidesabq.org" target="new">BSides Cybersecurity conference</a>
+    - 2-for-1 tickets! Student ticket price!
+  - July 23: Using Fuzzing in Cybersecurity
+  - Around August 1: <a href="https://www.meetup.com/albuquerque-software-social-club/" target="new">Albuquerque Software Social Club</a>
+  - September 19: <a href="https://f2fevents.com/event/abq24/" target='new'>INTERFACE Albuquerque</a>
+
+---
+
+## Cross-Site Request Forgery Basics
+
+Tuesday, April 30, 2024, at 5:30 pm
 
 <a href='https://www.google.com/maps?ll=35.065797,-106.564822&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=1931813735759550125' target='_blank'>Cesar Chavez Community Center</a>, Meeting Room
 
@@ -23,9 +47,10 @@ Please RSVP to franklin.dyer@owasp.org. If you want to participate in the lab ex
 - Elect 2 co-leaders for next year
 - Pitch ideas and recruit volunteers for future presentations
 
-### Wednesday, March 27, 2024, at 4 pm
+---
 
-Code Eyeballing
+## Code Eyeballing
+Wednesday, March 27, 2024, at 4 pm
 
 UNM Centennial Library, DEN2
 
@@ -35,15 +60,17 @@ All activities can be completed by looking at code. But you can also test on you
 
 Our space is limited to 16 people, so please RSVP to fpezzutidyer@unm.edu.
 
-Agenda: 
+### Agenda: 
 
 - Greetings and salutations
 - Featured presentation "Code Eyeballing"
 - Pitch ideas and recruit volunteers for future presentations
 
-### Monday, November 27, 2023, at 4 pm
+---
 
-Basics of SQL injection
+## Basics of SQL injection
+
+Monday, November 27, 2023, at 4 pm
 
 UNM Centennial Library, DEN2
 
@@ -53,27 +80,33 @@ If you would like to participate in the lab session, please come prepared with a
 
 Our space is limited to 16 people, so please RSVP to fpezzutidyer@unm.edu.
 
-Agenda: 
+### Agenda: 
 
 - Say Howdy
 - Featured presentation "Basics of SQL injection"
 - Pitch ideas and recruit volunteers for future presentations
 
-### Thursday, October 26, 2023, at 4 pm
+---
 
-Breaking into websites using misconfigurations
+## Breaking into websites using misconfigurations
+
+Thursday, October 26, 2023, at 4 pm
 
 UNM Centennial Library, DEN2
 
 Security research student Alex Adams will give a presentation about exploiting misconfigurations of the Google Authentication Toolkit in the wild. Learn about the Google Identity Toolkit API and common ways you might find it misconfigured. This talk will discuss some methods to spot issues with websites in general, common tools used by hackers for web penetration, and then go into a specific example of gaining unauthorized access to a website.
 
-Agenda:
+### Agenda:
 
 - Meet and greet
 - Featured presentation "Breaking into websites using misconfigurations"
 - Pitch ideas and recruit volunteers for future presentations
 
-### Wednesday, August 30, 2023, 3 pm - 6 pm
+---
+
+## Code injection attacks
+
+Wednesday, August 30, 2023, 3 pm - 6 pm
 
 <a href="/www-chapter-albuquerque/#div-centlibrary" onclick="location.hash='div-centlibrary'; location.reload();">UNM Centennial Library</a>, DEN2
 
