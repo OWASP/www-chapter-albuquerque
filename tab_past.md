@@ -29,6 +29,14 @@ Interested in a leadership position? We will also elect 2 co-leaders for the nex
   - Around August 1: <a href="https://www.meetup.com/albuquerque-software-social-club/" target="new">Albuquerque Software Social Club</a>
   - September 19: <a href="https://f2fevents.com/event/abq24/" target='new'>INTERFACE Albuquerque</a>
 
+### Minutes:
+- 4 attendees showed up.
+- Everyone urged to come up with event ideas for the next year.
+- Election results: 3 votes for Rose to be co-leader.
+- Talked upcoming events listed above. We are excited about José's talk next Tuesday!
+- An OWASP participant will be speaking a BSides this Friday. Everyone is interested in attending; some have tickets already.
+- Next OWASP meeting after next Tuesday will be in November or December.
+
 ---
 
 ## Cross-Site Request Forgery Basics
