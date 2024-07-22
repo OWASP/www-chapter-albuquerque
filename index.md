@@ -46,7 +46,4 @@ IT professionals may <a href="https://f2fevents.com/register/?att=ABQ&ref=Associ
   
 OWASP ABQ has been invited to participate as an exhibitor (i.e., reserve space on the exhibit floor in order and represent our chapter). There is no cost for this. Our chapter's participation is TBD.
 
- 
-
- 
-One side note, 
+One side note, all attendees must be working IT professionals and register with their corporate emails. Consultants, students, and interns will not be admitted.
