@@ -27,7 +27,7 @@ Fuzzing is a technique to test programs with generated data. Its main goal is to
 - Upcoming events:
   - Around August 1: <a href="https://www.meetup.com/albuquerque-software-social-club/" target="new">Albuquerque Software Social Club</a>
   - September 19: <a href="https://f2fevents.com/event/abq24/" target='new'>INTERFACE Albuquerque</a>
-
+  - October 11: <a href='https://www.eventbrite.com/e/techfest-2024-tickets-939701210617' target='new'>Tech Fest</a>
 ---
 
 ## Upcoming Event: INTERFACE Albuquerque
