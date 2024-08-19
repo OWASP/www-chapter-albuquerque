@@ -7,6 +7,23 @@ order: 1
 tags: past-tag
 ---
 
+
+## Using Fuzzing in Cybersecurity
+
+Tuesday, July 23, 2024, at 4:30 pm
+
+<a href="/www-chapter-albuquerque/#div-centlibrary" onclick="location.hash='div-centlibrary'; location.reload();">UNM Centennial Library</a>, DEN2
+
+Fuzzing is a technique to test programs with generated data. Its main goal is to detect crashes and non-expected failures. Radamsa is a general-purpose, black-box-oriented mutating fuzzer. In this talk, José will show examples of fuzzing using radamsa from basic command line tools to network services. We will also discuss some applications in cybersecurity of fuzzing involving automation of test cases.
+
+### Agenda: 
+- 4:30 Say Howdy
+- 5:00: Using Fuzzing in Cybersecurity
+- Upcoming events:
+  - Around August 1: <a href="https://www.meetup.com/albuquerque-software-social-club/" target="new">Albuquerque Software Social Club</a>
+  - September 19: <a href="https://f2fevents.com/event/abq24/" target='new'>INTERFACE Albuquerque</a>
+  - October 11: <a href='https://www.eventbrite.com/e/techfest-2024-tickets-939701210617' target='new'>Tech Fest</a>
+
 ## Leadership Elections and Planning
 
 Tuesday, July 16, 2024, at 5:30 pm
