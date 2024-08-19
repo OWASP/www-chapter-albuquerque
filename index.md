@@ -13,21 +13,12 @@ country: USA
 ## Welcome
 OWASP Albuquerque is for anyone here in town to discuss software security topics. We have a couple discussion ideas in mind, but we are also eager to hear what you would like to talk about too!
 
-## Next Event: Using Fuzzing in Cybersecurity
+## Upcoming Event: Albuquerque Software Social Club
 
-**Tuesday, July 23, 2024, at 4:30 pm**
+**Thursday, September 5, 2024, at 6:00 pm**
 
-<a href="/www-chapter-albuquerque/#div-centlibrary" onclick="location.hash='div-centlibrary'; location.reload();">UNM Centennial Library</a>, DEN2
+The Albuquerque Software Social Club meets at O'Neills once a month for tech presentations. This is not an OWASP event, but you are sure to find something interesting at the next tech presentation. Go to their <a href="https://www.meetup.com/albuquerque-software-social-club/" target="new">Meetup page</a> to find out more.
 
-Fuzzing is a technique to test programs with generated data. Its main goal is to detect crashes and non-expected failures. Radamsa is a general-purpose, black-box-oriented mutating fuzzer. In this talk, José will show examples of fuzzing using radamsa from basic command line tools to network services. We will also discuss some applications in cybersecurity of fuzzing involving automation of test cases.
-
-### Agenda: 
-- 4:30 Say Howdy
-- 5:00: Using Fuzzing in Cybersecurity
-- Upcoming events:
-  - Around August 1: <a href="https://www.meetup.com/albuquerque-software-social-club/" target="new">Albuquerque Software Social Club</a>
-  - September 19: <a href="https://f2fevents.com/event/abq24/" target='new'>INTERFACE Albuquerque</a>
-  - October 11: <a href='https://www.eventbrite.com/e/techfest-2024-tickets-939701210617' target='new'>Tech Fest</a>
 ---
 
 ## Upcoming Event: INTERFACE Albuquerque
@@ -47,3 +38,11 @@ IT professionals may <a href="https://f2fevents.com/register/?att=ABQ&ref=Associ
 OWASP ABQ has been invited to participate as an exhibitor (i.e., reserve space on the exhibit floor in order and represent our chapter). There is no cost for this. Our chapter's participation is TBD.
 
 One side note, all attendees must be working IT professionals and register with their corporate emails. Consultants, students, and interns will not be admitted.
+
+---
+
+## Upcoming Event: TechFest
+
+**Friday, October 11, 2024, 1:00 pm - 7:00 pm**
+
+TechFest is a free conference that may be of interest to OWASP members. Find out more at the <a href='https://www.eventbrite.com/e/techfest-2024-tickets-939701210617' target='new'>Tech Fest Eventbrite page</a>.
