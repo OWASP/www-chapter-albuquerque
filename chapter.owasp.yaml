@@ -1,0 +1,21 @@
+leaders:
+  - name: Rose Pezzuti Dyer
+    email: rose.dyer@owasp.org
+    github: pzzd
+location:
+  country: USA
+  country_code: US
+  region: New Mexico
+  city: Bernalillo County
+  latitude: 35.0841034
+  longitude: -106.650985
+name: OWASP Albuquerque
+repositories:
+  - name: www-chapter-albuquerque
+    url: https://github.com/OWASP/www-chapter-albuquerque
+    description: OWASP Foundation Web Repository
+tags:
+  - location-tag
+  - past-tag
+  - leadership-tag
+website: https://owasp.org/www-chapter-albuquerque
